@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-gesture-handler] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\07b80568cece31cd16ba6221d13f8809\jetified-react-native-0.64.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\91ebfed0b40a3046a133ec4b2461267d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\efe7b64f3c3864f0d821e3d7b63eec79\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1cea6b4b050097822fc208d44c8c5c0c\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\f110184b2fd805baac76db39a54736b8\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\ae5a0fdb18ec099389fa9ac13ec1540c\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\38768c649b98d046a47b579a752cdbea\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0065736e1a7819363c829e2dc1e3a71b\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\4506c3e23960d4eb8d201e80c1c2b3de\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\cc6bbbe9fd40286be6b658f3db95db00\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\aa672d448200bd6eff451a0ebe09e70f\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\30c34fff6559e67be4a57a258be2f9a1\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\c018c1fbcdbb563e3fcd71a3162ef4f3\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1a4b86ec389e2f62584ce317ee99d469\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\171ef158d4f06560fa77b53780262126\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\7a49fbce3a173346c59146fcef3a40b1\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\ff83485a1a63d6455952c0c93aac9e54\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\bf48d9285802976e70fb3170bb3744cb\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\e4f93347ac66ad34ceadd85fc3a0ff5a\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\622e3f035c325722b4cf43d491cd55d2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\8f311e6d6e590a3ad320ec7e057b5b37\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\e331af2c33f8cb0483dd7f1e060ebd06\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\db12081451d5d3b792fdb453d4dbc0f6\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\90214c3a934b838c8e332c877174c48e\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0b2834d88402f943d1c10406ebb774c8\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\de37b5436c2ef6465d44297c303b9654\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\f48398c14290a1b304ff57c8b0f63eb4\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\3722ccaaa22c0a8f7fbed96bc8708abc\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\7ee104d9c40c7ef9d18be8ddd8ef543a\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\11f366c082f8d0dab96ae7c8e8bab99d\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\88369bec874a04b1e9d04206605dd7f3\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\87fe7f74460260f6f8c17a6429ef0d6f\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\81c426a89535c63ab5a84be0fa97f03d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\bcf48910899588ea21e58441dcfe0c01\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\6ab506d08d512a09b89deb21ca2aa6a4\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\4340310cd6d63d8982cf87163b4b8e08\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\b95a4cb471ad1e74a3e37f6e56594b0c\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\a2afa7ab759574cdf72990c96a4eaa57\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0f5824abeb22af4f01dd20f50f05467a\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\07b80568cece31cd16ba6221d13f8809\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\07b80568cece31cd16ba6221d13f8809\jetified-react-native-0.64.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1cea6b4b050097822fc208d44c8c5c0c\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1cea6b4b050097822fc208d44c8c5c0c\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\c018c1fbcdbb563e3fcd71a3162ef4f3\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\c018c1fbcdbb563e3fcd71a3162ef4f3\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\3722ccaaa22c0a8f7fbed96bc8708abc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\3722ccaaa22c0a8f7fbed96bc8708abc\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\11f366c082f8d0dab96ae7c8e8bab99d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\11f366c082f8d0dab96ae7c8e8bab99d\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\3722ccaaa22c0a8f7fbed96bc8708abc\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:12:7-33
+	android:label
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:13:7-42
+	android:name
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.codegifts.MainActivity
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\ahmed\A_tast\xpay\test\xpay\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\07b80568cece31cd16ba6221d13f8809\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\07b80568cece31cd16ba6221d13f8809\jetified-react-native-0.64.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\91ebfed0b40a3046a133ec4b2461267d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\91ebfed0b40a3046a133ec4b2461267d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\efe7b64f3c3864f0d821e3d7b63eec79\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\efe7b64f3c3864f0d821e3d7b63eec79\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1cea6b4b050097822fc208d44c8c5c0c\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1cea6b4b050097822fc208d44c8c5c0c\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\f110184b2fd805baac76db39a54736b8\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\f110184b2fd805baac76db39a54736b8\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\ae5a0fdb18ec099389fa9ac13ec1540c\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\ae5a0fdb18ec099389fa9ac13ec1540c\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\38768c649b98d046a47b579a752cdbea\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\38768c649b98d046a47b579a752cdbea\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0065736e1a7819363c829e2dc1e3a71b\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0065736e1a7819363c829e2dc1e3a71b\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\4506c3e23960d4eb8d201e80c1c2b3de\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\4506c3e23960d4eb8d201e80c1c2b3de\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\cc6bbbe9fd40286be6b658f3db95db00\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\cc6bbbe9fd40286be6b658f3db95db00\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\aa672d448200bd6eff451a0ebe09e70f\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\aa672d448200bd6eff451a0ebe09e70f\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\30c34fff6559e67be4a57a258be2f9a1\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\30c34fff6559e67be4a57a258be2f9a1\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\c018c1fbcdbb563e3fcd71a3162ef4f3\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\c018c1fbcdbb563e3fcd71a3162ef4f3\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1a4b86ec389e2f62584ce317ee99d469\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\1a4b86ec389e2f62584ce317ee99d469\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\171ef158d4f06560fa77b53780262126\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\171ef158d4f06560fa77b53780262126\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\7a49fbce3a173346c59146fcef3a40b1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\7a49fbce3a173346c59146fcef3a40b1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\ff83485a1a63d6455952c0c93aac9e54\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\ff83485a1a63d6455952c0c93aac9e54\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\bf48d9285802976e70fb3170bb3744cb\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\bf48d9285802976e70fb3170bb3744cb\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\e4f93347ac66ad34ceadd85fc3a0ff5a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\e4f93347ac66ad34ceadd85fc3a0ff5a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\622e3f035c325722b4cf43d491cd55d2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\622e3f035c325722b4cf43d491cd55d2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\8f311e6d6e590a3ad320ec7e057b5b37\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\8f311e6d6e590a3ad320ec7e057b5b37\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\e331af2c33f8cb0483dd7f1e060ebd06\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\e331af2c33f8cb0483dd7f1e060ebd06\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\db12081451d5d3b792fdb453d4dbc0f6\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\db12081451d5d3b792fdb453d4dbc0f6\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\90214c3a934b838c8e332c877174c48e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\90214c3a934b838c8e332c877174c48e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0b2834d88402f943d1c10406ebb774c8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0b2834d88402f943d1c10406ebb774c8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\de37b5436c2ef6465d44297c303b9654\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\de37b5436c2ef6465d44297c303b9654\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\f48398c14290a1b304ff57c8b0f63eb4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\f48398c14290a1b304ff57c8b0f63eb4\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\3722ccaaa22c0a8f7fbed96bc8708abc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\3722ccaaa22c0a8f7fbed96bc8708abc\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\7ee104d9c40c7ef9d18be8ddd8ef543a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\7ee104d9c40c7ef9d18be8ddd8ef543a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\11f366c082f8d0dab96ae7c8e8bab99d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\11f366c082f8d0dab96ae7c8e8bab99d\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\88369bec874a04b1e9d04206605dd7f3\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\88369bec874a04b1e9d04206605dd7f3\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\87fe7f74460260f6f8c17a6429ef0d6f\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\87fe7f74460260f6f8c17a6429ef0d6f\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\81c426a89535c63ab5a84be0fa97f03d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\81c426a89535c63ab5a84be0fa97f03d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\bcf48910899588ea21e58441dcfe0c01\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\bcf48910899588ea21e58441dcfe0c01\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\6ab506d08d512a09b89deb21ca2aa6a4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\6ab506d08d512a09b89deb21ca2aa6a4\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\4340310cd6d63d8982cf87163b4b8e08\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\4340310cd6d63d8982cf87163b4b8e08\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\b95a4cb471ad1e74a3e37f6e56594b0c\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\b95a4cb471ad1e74a3e37f6e56594b0c\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\a2afa7ab759574cdf72990c96a4eaa57\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\a2afa7ab759574cdf72990c96a4eaa57\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0f5824abeb22af4f01dd20f50f05467a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\hussen\.gradle\caches\transforms-2\files-2.1\0f5824abeb22af4f01dd20f50f05467a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ahmed\A_tast\xpay\test\xpay\android\app\src\main\AndroidManifest.xml

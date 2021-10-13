@@ -1,0 +1,4 @@
+#Wed Oct 13 14:42:33 EET 2021
+base.0=D\:\\ahmed\\A_tast\\xpay\\test\\xpay\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

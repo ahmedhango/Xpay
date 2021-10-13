@@ -1,0 +1,9 @@
+com/codegifts/MainApplication.java
+ com.codegifts.MainApplication
+ com.codegifts.MainApplication$1
+com/codegifts/BuildConfig.java
+ com.codegifts.BuildConfig
+com/codegifts/MainActivity.java
+ com.codegifts.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
